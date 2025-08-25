@@ -16,7 +16,7 @@ contract BaseToken is IERC20, IBaseToken {
     string public name;
     string public symbol;
     uint8 public constant decimals = 18;
-
+0x70B1053B873028ed1Bd3411A4e0d43ED6E276B78;
     uint256 public override totalSupply;
     uint256 public nonStakingSupply;
 
